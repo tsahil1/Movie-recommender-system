@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run "D:/py/ML Project/movie recammander/Movie_recommander_system/app.py"
